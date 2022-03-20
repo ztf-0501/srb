@@ -1,0 +1,5 @@
+2022-03-18 18:13:08 [INFO ] http-nio-8110-exec-6 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：25493ec55cd9a57dc6025c96d515f211
+2022-03-18 18:13:14 [INFO ] http-nio-8110-exec-8 UserBindController.java:58 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收的参数如下：{"agentUserId":"6","resultCode":"0001","sign":"eb0a16b0134ed599186b20f69a7b640b","bindCode":"946c2ac15848491ea4f67cbc21aa10ba","resultMsg":"成功","timestamp":"1647598393543"}
+2022-03-18 18:13:14 [INFO ] http-nio-8110-exec-8 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：6|946c2ac15848491ea4f67cbc21aa10ba|0001|成功|1647598393543|9876543210
+2022-03-18 18:13:14 [INFO ] http-nio-8110-exec-8 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：eb0a16b0134ed599186b20f69a7b640b
+2022-03-18 18:13:14 [INFO ] http-nio-8110-exec-8 UserBindController.java:66 com.atguigu.srb.core.controller.api.UserBindController 验签成功！开始账户绑定

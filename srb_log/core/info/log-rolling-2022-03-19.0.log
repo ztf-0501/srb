@@ -1,0 +1,8 @@
+2022-03-18 18:41:02 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:40 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log info
+2022-03-18 18:41:02 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:41 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log warn
+2022-03-18 18:41:02 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:42 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log error
+2022-03-18 18:41:11 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-03-18 18:41:12 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-18 18:41:13 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-03-18 18:41:13 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-19 09:15:04 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

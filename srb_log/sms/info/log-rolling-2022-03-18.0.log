@@ -1,0 +1,6 @@
+2022-03-15 14:23:09 [INFO ] http-nio-8120-exec-1 SmsServiceImpl.java:33 com.atguigu.srb.sms.service.impl.SmsServiceImpl -------------{"code":0,"data":"发送成功"}
+2022-03-18 18:09:48 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-18 18:11:10 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-18 18:11:16 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 7.216 seconds (JVM running for 7.906)
+2022-03-18 18:11:38 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://service-core/api/core/userInfo/checkMobile/13600000000 HTTP/1.1
+2022-03-18 18:11:38 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)

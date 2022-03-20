@@ -1,0 +1,7 @@
+2022-03-10 20:47:05 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.762 seconds (JVM running for 12.613)
+2022-03-10 20:47:12 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-03-10 20:47:12 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-03-10 20:47:12 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-10 20:47:12 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-10 20:49:31 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据列表
+2022-03-10 20:49:31 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis

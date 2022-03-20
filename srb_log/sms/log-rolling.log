@@ -1,0 +1,5 @@
+2022-03-20 17:54:21 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 19.841 seconds (JVM running for 21.459)
+2022-03-20 18:10:16 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-20 18:10:24 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 12.142 seconds (JVM running for 12.868)
+2022-03-20 18:12:06 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsReceiver.java:34 com.atguigu.srb.sms.receiver.SmsReceiver SmsReceiver消息监听。。。。。。
+2022-03-20 18:12:19 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:33 com.atguigu.srb.sms.service.impl.SmsServiceImpl -------------{"code":0,"data":"发送成功"}

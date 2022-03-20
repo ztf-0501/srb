@@ -1,0 +1,8 @@
+2022-03-09 20:18:39 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-09 20:18:49 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 13.671 seconds (JVM running for 14.407)
+2022-03-10 13:59:45 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-10 14:03:03 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-03-10 14:03:12 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 13.168 seconds (JVM running for 13.87)
+2022-03-10 14:30:50 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://service-core/api/core/userInfo/checkMobile/13643931717 HTTP/1.1
+2022-03-10 14:30:50 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2022-03-10 14:30:51 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- HTTP/1.1 200 (678ms)

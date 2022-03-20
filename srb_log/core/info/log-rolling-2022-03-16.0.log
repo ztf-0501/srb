@@ -1,0 +1,6 @@
+2022-03-15 14:24:45 [INFO ] http-nio-8110-exec-5 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：901d05bc47a04c1974ce1cd2633d6ce6
+2022-03-15 14:24:56 [INFO ] http-nio-8110-exec-9 UserBindController.java:58 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收的参数如下：{"agentUserId":"5","resultCode":"0001","sign":"9edac2a9d2f96947b3d0670fde755821","bindCode":"8d8d7b5db5f1426d884e52f469a971a4","resultMsg":"成功","timestamp":"1647325495375"}
+2022-03-15 14:24:56 [INFO ] http-nio-8110-exec-9 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：5|8d8d7b5db5f1426d884e52f469a971a4|0001|成功|1647325495375|9876543210
+2022-03-15 14:24:56 [INFO ] http-nio-8110-exec-9 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：9edac2a9d2f96947b3d0670fde755821
+2022-03-15 14:24:56 [INFO ] http-nio-8110-exec-9 UserBindController.java:66 com.atguigu.srb.core.controller.api.UserBindController 验签成功！开始账户绑定
+2022-03-16 17:18:02 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

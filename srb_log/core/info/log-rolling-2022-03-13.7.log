@@ -1,0 +1,6 @@
+2022-03-13 11:39:00 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：0c6c98d9906d1c634f8a1182e9f9d03d
+2022-03-13 11:39:54 [INFO ] http-nio-8110-exec-7 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：CHARGE20220313113954625|999888|e7ccf397d58b4c5592e72fcbedef65bd|50|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1647142794724|9876543210
+2022-03-13 11:39:54 [INFO ] http-nio-8110-exec-7 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：7ecdea0f1c2ca94c86eef7078ffa7ad9
+2022-03-13 11:40:00 [INFO ] http-nio-8110-exec-8 UserAccountController.java:57 com.atguigu.srb.core.controller.api.UserAccountController 用户充值异步回调：{"chargeAmt":"50","hyFee":"0","mchFee":"0","resultCode":"0001","sign":"b7a06be76b20b1397120b312c79b3fca","bindCode":"e7ccf397d58b4c5592e72fcbedef65bd","agentBillNo":"CHARGE20220313113954625","resultMsg":"充值成功","timestamp":"1647142799266"}
+2022-03-13 11:40:00 [INFO ] http-nio-8110-exec-8 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：CHARGE20220313113954625|e7ccf397d58b4c5592e72fcbedef65bd|50|0|0|0001|充值成功|1647142799266|9876543210
+2022-03-13 11:40:00 [INFO ] http-nio-8110-exec-8 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：b7a06be76b20b1397120b312c79b3fca

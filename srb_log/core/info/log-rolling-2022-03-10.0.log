@@ -1,0 +1,9 @@
+2022-03-09 20:18:48 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-03-09 20:18:57 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 12.408 seconds (JVM running for 13.269)
+2022-03-10 13:59:50 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-03-10 14:03:06 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-03-10 14:03:17 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 13.982 seconds (JVM running for 14.704)
+2022-03-10 14:30:26 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:40 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log info
+2022-03-10 14:30:26 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:41 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log warn
+2022-03-10 14:30:26 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:42 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log error
+2022-03-10 14:39:05 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

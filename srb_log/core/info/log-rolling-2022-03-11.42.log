@@ -1,0 +1,6 @@
+2022-03-11 19:32:14 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|3|平安银行|45623545612465451|41090316660501999|13643931717|http://localhost/api/core/userBind/notify|张三|http://localhost:3000/user|1646998334635|9876543210
+2022-03-11 19:32:14 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：539f4657543cb5a92be880ecba276570
+2022-03-11 19:32:21 [INFO ] http-nio-8110-exec-9 UserBindController.java:58 com.atguigu.srb.core.controller.api.UserBindController 账户绑定异步回调接收的参数如下：{"agentUserId":"3","resultCode":"0001","sign":"84ee0f62443f3b5564a045384e4baa1a","bindCode":"ef0b01cde7c34da3b0ab1d0ee1a621d0","resultMsg":"成功","timestamp":"1646998340736"}
+2022-03-11 19:32:21 [INFO ] http-nio-8110-exec-9 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：3|ef0b01cde7c34da3b0ab1d0ee1a621d0|0001|成功|1646998340736|9876543210
+2022-03-11 19:32:21 [INFO ] http-nio-8110-exec-9 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：84ee0f62443f3b5564a045384e4baa1a
+2022-03-11 19:32:21 [INFO ] http-nio-8110-exec-9 UserBindController.java:66 com.atguigu.srb.core.controller.api.UserBindController 验签成功！开始账户绑定

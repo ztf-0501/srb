@@ -1,0 +1,8 @@
+2022-03-10 15:16:59 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 12.374 seconds (JVM running for 13.139)
+2022-03-10 17:21:07 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2022-03-10 17:21:17 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 14.08 seconds (JVM running for 14.858)
+2022-03-10 20:19:55 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2022-03-10 20:20:05 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 13.292 seconds (JVM running for 14.195)
+2022-03-11 07:50:37 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
+2022-03-11 07:50:47 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 13.784 seconds (JVM running for 14.609)
+2022-03-11 08:06:56 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev

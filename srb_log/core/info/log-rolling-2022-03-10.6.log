@@ -1,0 +1,8 @@
+2022-03-10 20:28:45 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-10 20:28:45 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-10 20:28:45 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:91 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2022-03-10 20:29:53 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2022-03-10 20:29:53 [INFO ] http-nio-8110-exec-8 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2022-03-10 20:29:53 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2022-03-10 20:29:53 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2022-03-10 20:29:53 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表

@@ -1,0 +1,5 @@
+2022-03-19 14:36:44 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：2a48d5b1199ec6fffa70c9343e4a771d
+2022-03-19 14:36:56 [INFO ] http-nio-8110-exec-4 LendReturnController.java:60 com.atguigu.srb.core.controller.api.LendReturnController 还款异步回调：{"totalAmt":"300.00","successNum":"2","resultCode":"0001","sign":"3fa9172f670ba180cf5f9d1d30aa1534","agentBatchNo":"RETURN20220318182859672","voteFeeAmt":"0","resultMsg":"还款成功","timestamp":"1647671815436"}
+2022-03-19 14:36:56 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：RETURN20220318182859672|0001|还款成功|2|1647671815436|300.00|0|9876543210
+2022-03-19 14:36:56 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：3fa9172f670ba180cf5f9d1d30aa1534
+2022-03-20 17:54:18 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

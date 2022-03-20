@@ -1,0 +1,5 @@
+2022-03-16 17:19:41 [INFO ] http-nio-8110-exec-2 LendServiceImpl.java:202 com.atguigu.srb.core.service.impl.LendServiceImpl 放款结果：{"agentProjectCode":"LEND20220312100352030","voteAmt":"7700.0004800000","hyFee":"0","mchFee":"299.9995200000","resultCode":"0000","resultMsg":"放款成功","agentBillNo":"LOAN20220316171940841"}
+2022-03-18 18:09:57 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-03-18 18:11:13 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-03-18 18:11:19 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.838 seconds (JVM running for 8.627)
+2022-03-18 18:13:08 [INFO ] http-nio-8110-exec-6 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|6|625000000000000000|投资银行01|410902222222000000|13600000000|http://localhost/api/core/userBind/notify|投资1|http://localhost:3000/user|1647598388252|9876543210

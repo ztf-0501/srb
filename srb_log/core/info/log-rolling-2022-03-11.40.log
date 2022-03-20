@@ -1,0 +1,6 @@
+2022-03-11 19:26:17 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:40 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log info
+2022-03-11 19:26:17 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:41 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log warn
+2022-03-11 19:26:17 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:42 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log error
+2022-03-11 19:26:23 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:40 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log info
+2022-03-11 19:26:23 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:41 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log warn
+2022-03-11 19:26:23 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:42 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi this is log error
